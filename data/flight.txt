@@ -1,0 +1,26 @@
+New York, Chicago, 790
+New York, Atlanta, 870
+New York, London, 3450
+Chicago, Dallas, 800
+Chicago, Denver, 920
+Chicago, Toronto, 440
+Dallas, Denver, 790
+Dallas, Houston, 240
+Dallas, Atlanta, 720
+Denver, Phoenix, 850
+Phoenix, Los Angeles, 370
+Los Angeles, San Francisco, 380
+San Francisco, Seattle, 680
+Seattle, Tokyo, 5410
+Toronto, Montreal, 330
+Montreal, London, 3540
+London, Paris, 220
+Paris, Rome, 690
+Rome, Athens, 650
+Athens, Istanbul, 360
+Istanbul, Moscow, 1100
+Moscow, Beijing, 3610
+Beijing, Seoul, 950
+Seoul, Tokyo, 720
+Houston, Miami, 970
+Miami, New York, 1090
